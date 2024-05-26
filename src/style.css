@@ -80,8 +80,8 @@ main {
 }
 
 .weather-app-icon {
-  font-size: 44px;
-  margin-top: 22px;
+  width: 88px;
+  height: 88px;
 }
 footer {
   border-top: 1px solid #f9f7fe;
